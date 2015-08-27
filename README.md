@@ -1,6 +1,8 @@
-# Data-Structures-Zoo
-An educational repo for students looking to learn about data structures in Python.
-While this is based on a Java class, this resource will be using Python idioms. Currently 60% Done!
+# 数据结构动物园
+
+使用Python学习数据结构.
+源于Java,使用Python实现.
+当前完成了60%.
 
 ![Imgur](http://imgs.xkcd.com/comics/python.png)
 <br>
@@ -34,4 +36,3 @@ run the test.py file, practice using the objects in another file (using ``import
 
 If you find an error in my writing or python files feel free to create an issue, or if you're savy create a pull request with the fix.
 Thanks for reading!
-
